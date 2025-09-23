@@ -30,9 +30,9 @@
 ---
 
 ## 📂 Featured Projects  
-- 🔐 [Guardian AI](https://github.com/Jeremiahogingo/Guardian-AI) – AI-powered desktop security assistant  
-- 📦 [AcePaper Writers](https://github.com/Jeremiahogingo/Library-Management-System) – Full-stack Library management system with great features implemented
-- 🛰️ [Morse Code Translator](https://github.com/Jeremiahogingo/Morse-Code) – Encode and decode Morse Code in Python  
+- 🔐 [Blog App Generator](https://github.com/Jeremiahogingo/Blog_generater-App) – AI-powered blog generator  
+- 📦 [Library Management System](https://github.com/Jeremiahogingo/Library_management_system) – Full-stack Library management system with great features implemented
+- 🛰️ [Brick Break Out game](https://github.com/Jeremiahogingo/Brick-Break-Out-Game) – A simple Python Game with great experience and feel    
 
 ---
 
