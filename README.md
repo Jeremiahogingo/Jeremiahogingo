@@ -37,7 +37,7 @@
 ---
 
 ## 📫 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/jeremiah-ogingo-30540432a)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeremiah-omondi-30540432a/)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=firefox&logoColor=white)](https://yourportfolio.com)  
 [![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:jeremiahogingo174@gmail.com)  
 
