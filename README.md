@@ -70,8 +70,10 @@ I'm passionate about building scalable backend systems, secure web applications,
 
 ### Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,go,php,js,ts,html,css" />
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,go,php,js,ts,react,nextjs,django,nodejs,spring,docker,kubernetes,mongodb,mysql,postgres,sqlite,linux,git,github,vscode"/>
+
 </p>
 
 ### Frameworks & Libraries
@@ -82,8 +84,12 @@ I'm passionate about building scalable backend systems, secure web applications,
 
 ### Databases
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite"/>
+
+<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
+
 </p>
 
 ### DevOps & Cloud
@@ -102,68 +108,21 @@ I'm passionate about building scalable backend systems, secure web applications,
 
 # 🌟 Featured Projects
 
-<table>
-<tr>
+<p align="center">
 
-<td width="50%">
+<a href="https://github.com/Jeremiahogingo/Blog_generater-App">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Jeremiahogingo&repo=Blog_generater-App&theme=tokyonight"/>
+</a>
 
-### 🔐 AI Blog Generator
+<a href="https://github.com/Jeremiahogingo/Library_management_system">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Jeremiahogingo&repo=Library_management_system&theme=tokyonight"/>
+</a>
 
-Generate high-quality blogs using AI with a modern web interface.
+<a href="https://github.com/Jeremiahogingo/Brick-Break-Out-Game">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Jeremiahogingo&repo=Brick-Break-Out-Game&theme=tokyonight"/>
+</a>
 
-**Tech Stack**
-
-Python • Django • AI APIs
-
-🔗 https://github.com/Jeremiahogingo/Blog_generater-App
-
-</td>
-
-<td width="50%">
-
-### 📚 Library Management System
-
-Complete library management platform with authentication, inventory, and reporting.
-
-**Tech Stack**
-
-Java • SQL
-
-🔗 https://github.com/Jeremiahogingo/Library_management_system
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-### 🎮 Brick Break-Out Game
-
-Classic arcade game built in Python with polished gameplay.
-
-**Tech Stack**
-
-Python
-
-🔗 https://github.com/Jeremiahogingo/Brick-Break-Out-Game
-
-</td>
-
-<td width="50%">
-
-### 🚀 More Projects
-
-Explore additional software engineering, backend, and cybersecurity projects.
-
-🔗 https://github.com/Jeremiahogingo?tab=repositories
-
-</td>
-
-</tr>
-
-</table>
+</p>
 
 ---
 
@@ -171,25 +130,56 @@ Explore additional software engineering, backend, and cybersecurity projects.
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jeremiahogingo&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Jeremiahogingo&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeremiahogingo&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeremiahogingo&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=Jeremiahogingo&theme=tokyonight&hide_border=true"/>
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=Jeremiahogingo&theme=tokyonight&hide_border=true"/>
+
+</p>
+---
+
+# 🧠 LeetCode
+
+<p align="center">
+
+<a href="https://leetcode.com/u/Jerrylion/">
+
+<img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/>
+
+</a>
 
 </p>
 
----
+<p align="center">
+
+<img width="48%" src="https://leetcard.jacoblin.cool/Jerrylion?theme=dark&font=JetBrains%20Mono&ext=heatmap"/>
+
+<img width="48%" src="https://leetcode-badge-showcase.vercel.app/api?username=Jerrylion&theme=dark"/>
+
+</p>
 
 # 🏆 GitHub Achievements
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Jeremiahogingo&theme=tokyonight&row=2&column=4&no-frame=true&margin-w=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Jeremiahogingo&theme=algolia&no-frame=true&column=4&margin-w=15"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="75"/>
+
+<img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="75"/>
+
+<img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="75"/>
+
+<img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="75"/>
 
 </p>
 
@@ -200,6 +190,12 @@ Explore additional software engineering, backend, and cybersecurity projects.
 <p align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jeremiahogingo&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Jeremiahogingo/Jeremiahogingo/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
 
@@ -241,6 +237,24 @@ Explore additional software engineering, backend, and cybersecurity projects.
 ---
 
 <div align="center">
+  
+## 🏅 Coding Profiles
+
+<p align="center">
+
+<a href="https://leetcode.com/u/Jerrylion/">
+<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
+</a>
+
+<a href="https://www.hackerrank.com/Lionboy">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank"/>
+</a>
+
+<a href="https://www.codewars.com/users/Lionboy">
+<img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars"/>
+</a>
+
+</p>
 
 ## 💭 Favorite Quote
 
