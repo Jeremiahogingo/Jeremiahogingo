@@ -84,7 +84,7 @@ I'm passionate about building scalable backend systems, secure web applications,
 
 ### Databases
 
-<p align="center">
+<p>
 
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite"/>
 
