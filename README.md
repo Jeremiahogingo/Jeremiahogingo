@@ -68,18 +68,16 @@ I'm passionate about building scalable backend systems, secure web applications,
 
 # 💻 Tech Stack
 
-### Languages
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,go,php,js,ts,react,nextjs,django,nodejs,spring,docker,kubernetes,mongodb,mysql,postgres,sqlite,linux,git,github,vscode"/>
-
-</p>
-
-### Frameworks & Libraries
+### 💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=django,nodejs,tailwind" />
+<img src="https://skillicons.dev/icons?i=python,java,go,php,js,ts"/>
+</p>
+
+### 🚀 Frameworks & Libraries
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,django,nodejs,spring"/>
 </p>
 
 ### Databases
@@ -108,21 +106,104 @@ I'm passionate about building scalable backend systems, secure web applications,
 
 # 🌟 Featured Projects
 
-<p align="center">
+<table>
+<tr>
 
-<a href="https://github.com/Jeremiahogingo/Blog_generater-App">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Jeremiahogingo&repo=Blog_generater-App&theme=tokyonight"/>
+<td width="50%" valign="top">
+
+## 💹 Crypto Portfolio Tracker
+
+<p>
+A modern cryptocurrency portfolio dashboard featuring real-time market data,
+portfolio analytics, watchlists, interactive charts, and responsive UI.
+</p>
+
+**🚀 Tech Stack**
+
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs)
+
+<br>
+
+<a href="https://github.com/Jeremiahogingo/crypto-portfolio-tracker">
+<img src="https://img.shields.io/badge/View_Project-2563EB?style=for-the-badge&logo=github"/>
 </a>
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🧩 LeetCode Solutions
+
+<p>
+A curated collection of optimized Data Structures and Algorithms solutions with
+clean explanations and multiple language implementations.
+</p>
+
+**🚀 Tech Stack**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python)
+
+<br>
+
+<a href="https://github.com/Jeremiahogingo/LeetCode-Solutions">
+<img src="https://img.shields.io/badge/View_Project-2563EB?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 📚 Library Management System
+
+<p>
+A complete library management solution supporting authentication,
+book management, borrowing workflows, and reporting.
+</p>
+
+**🚀 Tech Stack**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql)
+
+<br>
 
 <a href="https://github.com/Jeremiahogingo/Library_management_system">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Jeremiahogingo&repo=Library_management_system&theme=tokyonight"/>
+<img src="https://img.shields.io/badge/View_Project-2563EB?style=for-the-badge&logo=github"/>
 </a>
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🎮 Brick Break-Out Game
+
+<p>
+A polished brick breaker game built with Python featuring smooth gameplay,
+collision detection, score tracking, and retro arcade mechanics.
+</p>
+
+**🚀 Tech Stack**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python)
+
+<br>
 
 <a href="https://github.com/Jeremiahogingo/Brick-Break-Out-Game">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Jeremiahogingo&repo=Brick-Break-Out-Game&theme=tokyonight"/>
+<img src="https://img.shields.io/badge/View_Project-2563EB?style=for-the-badge&logo=github"/>
 </a>
 
-</p>
+</td>
+
+</tr>
+</table>
 
 ---
 
@@ -130,60 +211,76 @@ I'm passionate about building scalable backend systems, secure web applications,
 
 <p align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Jeremiahogingo&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeremiahogingo&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jeremiahogingo&theme=tokyonight"/>
 
 </p>
 
 <p align="center">
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=Jeremiahogingo&theme=tokyonight&hide_border=true"/>
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jeremiahogingo&theme=tokyonight"/>
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jeremiahogingo&theme=tokyonight"/>
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jeremiahogingo&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img width="70%" src="https://streak-stats.demolab.com?user=Jeremiahogingo&theme=tokyonight&hide_border=true"/>
 
 </p>
 ---
 
 # 🧠 LeetCode
 
-<p align="center">
+<div align="center">
 
 <a href="https://leetcode.com/u/Jerrylion/">
 
-<img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/>
+<img src="https://img.shields.io/badge/LeetCode_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 
 </a>
 
-</p>
+<br><br>
 
-<p align="center">
+<img width="80%" src="https://leetcard.jacoblin.cool/Jerrylion?theme=dark&font=JetBrains+Mono&ext=heatmap"/>
 
-<img width="48%" src="https://leetcard.jacoblin.cool/Jerrylion?theme=dark&font=JetBrains%20Mono&ext=heatmap"/>
+</div>
 
-<img width="48%" src="https://leetcode-badge-showcase.vercel.app/api?username=Jerrylion&theme=dark"/>
+<div align="center">
 
-</p>
+### 📈 Progress
+
+🟢 Improving problem-solving skills through consistent practice.
+
+🎯 Goal: **500+ solved problems**
+
+🏆 Focus Areas:
+
+`Arrays` • `Trees` • `Graphs` • `Dynamic Programming` • `Backtracking` • `Greedy` • `Binary Search`
+
+</div>
 
 # 🏆 GitHub Achievements
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Jeremiahogingo&theme=algolia&no-frame=true&column=4&margin-w=15"/>
+<img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="85"/>
+
+<img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="85"/>
+
+<img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="85"/>
+
+<img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="85"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="75"/>
-
-<img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="75"/>
-
-<img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="75"/>
-
-<img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="75"/>
+⭐ Continuously contributing to open source and building production-ready software.
 
 </p>
-
----
 
 # 📈 Contribution Graph
 
