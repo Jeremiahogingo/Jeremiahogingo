@@ -1,0 +1,61 @@
+name: Generate Profile Charts
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'README.md'
+      - '.github/workflows/profile-activity.yml'
+  schedule:
+    - cron: '17 2 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-generated-assets
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@v4
+
+      - name: Generate contribution activity charts
+        uses: dturovskiy/deus-commit-chart@v1.5.3
+        with:
+          source: github
+          username: Jeremiahogingo
+          token: ${{ github.token }}
+          default-days: '365'
+          ranges: '30,90,365'
+          layout: spacious
+          output-dir: activity-dist
+
+      - name: Generate contribution snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: Jeremiahogingo
+          outputs: |
+            dist/github-contribution-grid-snake.svg?palette=github-light
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Combine generated SVGs
+        shell: bash
+        run: |
+          set -euo pipefail
+          mkdir -p publish
+          cp activity-dist/activity-30d.svg activity-dist/activity-90d.svg activity-dist/activity-365d.svg publish/
+          cp dist/github-contribution-grid-snake.svg dist/github-contribution-grid-snake-dark.svg publish/
+
+      - name: Publish charts to the output branch
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./publish
+          publish_branch: output
+          force_orphan: true
