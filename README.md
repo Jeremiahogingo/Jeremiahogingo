@@ -134,10 +134,6 @@ I'm a software engineer in Kenya interested in designing useful, secure, and mai
 ## GitHub overview
 
 <p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jeremiahogingo&theme=tokyonight" alt="GitHub profile activity summary" />
-</p>
-
-<p align="center">
   <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jeremiahogingo&theme=tokyonight" alt="Languages by repository" />
   <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jeremiahogingo&theme=tokyonight" alt="Most-used languages by commits" />
   <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jeremiahogingo&theme=tokyonight" alt="GitHub statistics" />
