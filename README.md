@@ -58,13 +58,13 @@ I'm a software engineer in Kenya interested in designing useful, secure, and mai
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,go,php,js,ts&perline=6" alt="Python, Java, Go, PHP, JavaScript, and TypeScript" />
+  <img src="https://skillicons.dev/icons?i=python,java,go,js,ts&perline=6" alt="Python, Java, Go, JavaScript, and TypeScript" />
 </p>
 
 ### Frameworks and libraries
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,django,nodejs,spring&perline=5" alt="React, Next.js, Django, Node.js, and Spring" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,django,nodejs,spring&perline=5" alt="React, Next.js, Django, and Node.js" />
 </p>
 
 ### Databases
@@ -135,7 +135,6 @@ I'm a software engineer in Kenya interested in designing useful, secure, and mai
 
 <p align="center">
   <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jeremiahogingo&theme=tokyonight" alt="Languages by repository" />
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jeremiahogingo&theme=tokyonight" alt="Most-used languages by commits" />
   <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jeremiahogingo&theme=tokyonight" alt="GitHub statistics" />
 </p>
 
